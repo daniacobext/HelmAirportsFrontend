@@ -1,0 +1,8 @@
+nameApp: airports-frontend
+port: 4200 
+portName: frontend
+type: LoadBalancer
+
+deployment:
+  image: daniacobext/airports-frontend:latest
+  path: /locations
