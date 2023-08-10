@@ -4,5 +4,5 @@ portName: frontend
 type: LoadBalancer
 
 deployment:
-  image: daniacobext/airports-frontend:latest
+  image: cr.siemens.com/proiect/frontendairport
   path: /locations
