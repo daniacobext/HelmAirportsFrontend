@@ -3,12 +3,12 @@ entries:
   airports-frontend:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-13T12:02:19.973317+03:00"
+    created: "2023-09-13T12:08:30.1955948+03:00"
     description: A Helm chart for Kubernetes
-    digest: cbf61977e124723cfd5f35b27ce80954ea17b6ee196d92d192204103ba8dfacf
+    digest: 46402ad672ccd1143cc2b56b7762d6a063c97eafd8c49d6dc4c0d12b54730c01
     name: airports-frontend
     type: application
     urls:
     - airports-frontend-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-13T12:02:19.973317+03:00"
+generated: "2023-09-13T12:08:30.1950588+03:00"
